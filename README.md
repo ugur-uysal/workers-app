@@ -36,8 +36,9 @@ npm install
 npm start
 
 ## UI ekran görüntüleri
-
-![form ve listeleme](screenshots/form-list.png)
-![validations](screenshots/validations.png)
-![responsive görünüm](screenshots/responsive.png)
+<p align="center">
+  <img src="./screenshots/form-list.png" width="30%" />
+  <img src="./screenshots/validations.png" width="30%" />
+  <img src="./screenshots/responsive.png" width="30%" />
+</p>
 ```
