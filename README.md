@@ -34,11 +34,12 @@ npm install
 
 # Geliştirme sunucusunu başlat
 npm start
+```
 
 ## UI ekran görüntüleri
+
 <p align="center">
   <img src="./screenshots/form-list.png" width="30%" />
   <img src="./screenshots/validations.png" width="30%" />
   <img src="./screenshots/responsive.png" width="30%" />
 </p>
-```
